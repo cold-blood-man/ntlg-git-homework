@@ -40,7 +40,7 @@
 1. Добавил файл `.gitignore` и выполнил `git status`.  ![Скриншот 6](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen06.png)
 2. Добавил файл в следующий коммит: `git add .gitignore`.  ![Скриншот 7](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen07.png)
 3. Добавил в файл `.gitignore` необходимые условия. Условие __*.рус__ добавил в русской и английской раскладке (на всякий случай).  ![Скриншот 8](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen08.png)
-4. Делаем коммит и пуш в GitHub.  ![Скриншот 9](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen09.png)
+4. Делаем коммит и пуш внесённых изменений в GitHub.  ![Скриншот 9](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen09.png)
 5. Добавляю [ссылку](https://github.com/cold-blood-man/ntlg-git-hw1/commit/b8c5b301941633f49d79342b450f0f85256c309e) на сделанный коммит.
 
 ---
