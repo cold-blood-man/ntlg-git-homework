@@ -18,23 +18,12 @@
 ###### В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 ---
 1. Зарегистрировал аккаунт на GitHub, создал новый public репозиторий с README.md. Добавил в аккаунт открытый SSH ключ для возможности работы с репозиторием локально и синхронизации изменений.
-2. Клонировал созданный репозиторий  ![Скриншот 1](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen01.png)
-3. Выполнил первоначальную настройку GIT, затем выполнил команду `git status`  ![Скриншот 2](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen02.png)
-4. Внёс изменения в файл README.md и выполнил команды `git status`, `git diff` и `git diff --staged`  ![Скриншот 3](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen03.png)
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
+2. Клонировал созданный репозиторий.  ![Скриншот 1](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen01.png)
+3. Выполнил первоначальную настройку GIT, затем выполнил команду `git status`.  ![Скриншот 2](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen02.png)
+4. Внёс изменения в файл README.md и выполнил команды `git status`, `git diff` и `git diff --staged`.  ![Скриншот 3](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen03.png)
+5. Выполнил команду `git add README.md` и повторил команды из п. 4.  ![Скриншот 4](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen04.png)
+6. Сделал коммит и запушил изменения на GitHub.  ![Скриншот 5](https://github.com/cold-blood-man/ntlg-git-homework/blob/main/pics/screen05.png)
+7. Добавляю [ссылку](https://github.com/cold-blood-man/ntlg-git-hw1/commit/d583cb82c946e1b511cda951c1e33aa7712d7b00) на сделанный коммит.
 
 ---
 
